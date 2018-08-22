@@ -7,7 +7,7 @@
 - [x] notebook for data augmentation l-r flip
 - [x] script for label to mask conversion for visualization
 
-### Instruction to run the scripts
+### Instruction to run a script
 > python script.py -h
 > 
 > This lists all the command line arguments that can be given 
