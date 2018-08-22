@@ -1,11 +1,11 @@
-# Data preparation scripts/notebooks for cityscapes dataset
+# Data preparation scripts for cityscapes dataset
 
 * [Cityscapes Dataset](https://www.cityscapes-dataset.com/)
 
-## This repo contains following scripts/notebooks
-- [x] script for mask to label conversion for training
-- [x] notebook for data augmentation l-r flip
-- [x] script for label to mask conversion for visualization
+## This repo contains following scripts
+- [x] script for mask to label generation for training
+- [x] script for data augmentation (l-r flip)
+- [x] script for label to overlay generation for visualization
 
 ### Instruction to run a script
 > python script.py -h
